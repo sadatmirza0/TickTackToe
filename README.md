@@ -22,8 +22,6 @@ This is a simple and fun Tic-Tac-Toe game developed for Android. Play against a 
 
 ## Screenshots
 
-*(Include screenshots of your game here. You can describe them briefly below)*
-
 * Main game board with empty squares.
 * Game in progress with some moves made.
 * Example of a winning game state.
@@ -33,8 +31,8 @@ This is a simple and fun Tic-Tac-Toe game developed for Android. Play against a 
 ## Technologies Used
 
 * Android SDK
-* Java or Kotlin (depending on your development language)
-* Android Studio (or your preferred Android development environment)
+* Java 
+* Android Studio
 
 ## Installation
 
@@ -44,10 +42,6 @@ This is a simple and fun Tic-Tac-Toe game developed for Android. Play against a 
 4.  Tap on the APK file to begin the installation process.
 5.  Follow the on-screen instructions to install the game.
 6.  Once installed, you can find the TickTackToe app in your app drawer.
-
-*(Alternatively, if you plan to distribute through the Google Play Store, provide a link here)*
-
-[Link to your Google Play Store listing (if applicable)]
 
 ## Contributing
 
